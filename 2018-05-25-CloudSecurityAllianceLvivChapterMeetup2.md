@@ -1,7 +1,10 @@
-# CSA
+# Cloud Security Alliance, Lviv Chapter Meetup #2
 We're proud to announce our second meeting.
 
 If you're interested in security or work with clouds, don't miss your chance. Come to gain new experience and share useful information in this field.
+
+7G Naukova Str., Lviv
+25.05.2018 | 17:30 - 21:00
 
 Tickets - https://www.eventbrite.com/e/cloud-security-alliance-lviv-chapter-meetup-2-tickets-45137294864?aff=erelexpmlt#tickets
 
@@ -18,5 +21,7 @@ tbd.
 Become a speaker: csalvivchapter@gmail.com
 
 Spend this evening on Friday together with leading people.
+
+Our facebook page - https://www.facebook.com/csalviv/
 
 We promise you will not be disappointed.
